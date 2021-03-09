@@ -1,3 +1,3 @@
 class A {
-	private static final String name="Rajan";
+	private static final String firastName="Rajan";
 }
